@@ -18,6 +18,7 @@ Bug Report
 ----------
 * Description:
 * Full URL of the page that had the bug:
+* Is there anything in the Javascript console? Paste it here:
 * Screenshots (if applicable):
 
 <!-- 
