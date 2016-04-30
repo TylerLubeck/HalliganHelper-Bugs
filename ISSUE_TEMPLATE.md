@@ -33,11 +33,14 @@ Feature Request
 * Who would benefit:
 * Mockup (if you're feeling ambitious):
 
-About Me <!-- All of these are optional, but appreciated -->
+<!-- All of these are optional, but appreciated -->
+About Me
 --------
 * HalliganHelper Email Address: 
 * School Name: 
 
-Other Information? <!-- Also completely optional -->
+
+<!-- Also completely optional -->
+Other Information?
 -----------------
 
