@@ -25,6 +25,13 @@ that we can let you know what we're working on.
    template for reporting issues. While many fields are optional, we ask that
    you provide as much information as you can.
 
+### Request For Comments (RFCs)
+
+If we have ideas for features, but aren't sure of certain UX details or if
+the feature would be well-received at all, we'll create issues and tag them 
+with `RFC`. Please feel free to contribute to the discussion here, and we'll
+use it to inform our decisions.
+
 
 ### Bugs You Should Submit
 
