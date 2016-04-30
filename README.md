@@ -31,7 +31,7 @@ that we can let you know what we're working on.
 - Feature Requests
 - Reporting problems with the site
 
-### Bugs You Shouldn't Submit
+### Bugs You _Shouldn't_ Submit
 
 - Security related problems
 - Login and Password related issues
